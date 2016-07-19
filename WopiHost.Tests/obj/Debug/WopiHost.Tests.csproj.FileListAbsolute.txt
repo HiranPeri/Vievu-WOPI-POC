@@ -1,0 +1,52 @@
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\bin\Debug\WopiHost.Tests.dll.config
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\bin\Debug\WopiHost.Tests.dll
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\bin\Debug\WopiHost.Tests.pdb
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\bin\Debug\WopiHost.dll
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.Http.dll
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.Optimization.dll
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\bin\Debug\System.Net.Http.Formatting.dll
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.Http.WebHost.dll
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\bin\Debug\Newtonsoft.Json.dll
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.Razor.dll
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.WebPages.dll
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\bin\Debug\WopiHost.pdb
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.Http.xml
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.Optimization.xml
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\bin\Debug\System.Net.Http.Formatting.xml
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.Http.WebHost.xml
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\bin\Debug\Newtonsoft.Json.xml
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.Razor.xml
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.WebPages.xml
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\obj\Debug\WopiHost.Tests.csprojResolveAssemblyReference.cache
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\obj\Debug\WopiHost.Tests.dll
+\\192.168.4.8\est\Project\Dot_Net\VIEVU-WOPI\Building an Office Web Apps (OWA) WOPI Host\C# - Copy\WopiHost.Tests\obj\Debug\WopiHost.Tests.pdb
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\bin\Debug\WopiHost.Tests.dll.config
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\bin\Debug\WopiHost.Tests.dll
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\bin\Debug\WopiHost.Tests.pdb
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\bin\Debug\WopiHost.dll
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\bin\Debug\WopiHost.pdb
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\obj\Debug\WopiHost.Tests.csprojResolveAssemblyReference.cache
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\obj\Debug\WopiHost.Tests.dll
+C:\Users\hiran.desai\Desktop\Test\C# - Copy\WopiHost.Tests\obj\Debug\WopiHost.Tests.pdb
